@@ -5,3 +5,8 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
 }
+.flags-container img{
+    width: 200px;
+    height: 150px;
+    margin-right: 10px;
+}
